@@ -1,0 +1,23 @@
+/* 
+    Created on : May 12, 2019, 3:47:26 PM
+    Author     : JONIYED
+*/
+.logincss{
+    -fx-background-image: url(live-wallpapers-5.jpg);
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+}
+
+.manid{
+    -fx-border-style: solid;
+    -fx-border-color: white;
+    -fx-border-radius: 5px;
+}
+
+.button{
+    -fx-background-color: #00ff14;
+    -fx-text-alignment: center;
+}
+.button:hover{
+    -fx-background-color: red;
+}
